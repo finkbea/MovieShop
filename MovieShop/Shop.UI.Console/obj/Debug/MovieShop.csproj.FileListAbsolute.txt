@@ -1,0 +1,2 @@
+C:\Users\Adicu\source\repos\MovieShop\MovieShop\Shop.UI.Console\obj\Debug\MovieShop.csprojAssemblyReference.cache
+C:\Users\Adicu\source\repos\MovieShop\MovieShop\Shop.UI.Console\obj\Debug\MovieShop.csproj.CoreCompileInputs.cache
